@@ -1,0 +1,1 @@
+print('si no me ignoras eres gey')
